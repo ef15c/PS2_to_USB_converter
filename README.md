@@ -2,7 +2,7 @@
 
 ![The board running](board_in_function.jpg)
 
- This board allow to plus PS/2 devices (keyboards or mice) to a computer using a standard USB connector.
+ This board allow to plug PS/2 devices (keyboards or mice) to a computer using a standard USB connector.
 
 
 - Uses a low cost STM32F103 "bluepill"
