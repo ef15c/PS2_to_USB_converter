@@ -1,0 +1,311 @@
+# depslib dependency file v1.0
+1603892673 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal.c
+	"stm32f1xx_hal.h"
+
+1603892673 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal.h
+	"stm32f1xx_hal_conf.h"
+
+1615207662 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\inc\stm32f1xx_hal_conf.h
+	"stm32f1xx_hal_rcc.h"
+	"stm32f1xx_hal_gpio.h"
+	"stm32f1xx_hal_exti.h"
+	"stm32f1xx_hal_dma.h"
+	"stm32f1xx_hal_eth.h"
+	"stm32f1xx_hal_can.h"
+	"Legacy/stm32f1xx_hal_can_legacy.h"
+	"stm32f1xx_hal_cec.h"
+	"stm32f1xx_hal_cortex.h"
+	"stm32f1xx_hal_adc.h"
+	"stm32f1xx_hal_crc.h"
+	"stm32f1xx_hal_dac.h"
+	"stm32f1xx_hal_flash.h"
+	"stm32f1xx_hal_sram.h"
+	"stm32f1xx_hal_nor.h"
+	"stm32f1xx_hal_i2c.h"
+	"stm32f1xx_hal_i2s.h"
+	"stm32f1xx_hal_iwdg.h"
+	"stm32f1xx_hal_pwr.h"
+	"stm32f1xx_hal_rtc.h"
+	"stm32f1xx_hal_pccard.h"
+	"stm32f1xx_hal_sd.h"
+	"stm32f1xx_hal_nand.h"
+	"stm32f1xx_hal_spi.h"
+	"stm32f1xx_hal_tim.h"
+	"stm32f1xx_hal_uart.h"
+	"stm32f1xx_hal_usart.h"
+	"stm32f1xx_hal_irda.h"
+	"stm32f1xx_hal_smartcard.h"
+	"stm32f1xx_hal_wwdg.h"
+	"stm32f1xx_hal_pcd.h"
+	"stm32f1xx_hal_hcd.h"
+	"stm32f1xx_hal_mmc.h"
+
+1603892673 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_rcc.h
+	"stm32f1xx_hal_def.h"
+	"stm32f1xx_hal_rcc_ex.h"
+
+1603892673 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_def.h
+	"stm32f1xx.h"
+	"Legacy/stm32_hal_legacy.h"
+	<stddef.h>
+
+1603892672 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\cmsis\device\st\stm32f1xx\include\stm32f1xx.h
+	"stm32f100xb.h"
+	"stm32f100xe.h"
+	"stm32f101x6.h"
+	"stm32f101xb.h"
+	"stm32f101xe.h"
+	"stm32f101xg.h"
+	"stm32f102x6.h"
+	"stm32f102xb.h"
+	"stm32f103x6.h"
+	"stm32f103xb.h"
+	"stm32f103xe.h"
+	"stm32f103xg.h"
+	"stm32f105xc.h"
+	"stm32f107xc.h"
+	"stm32f1xx_hal.h"
+
+1603892672 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\cmsis\device\st\stm32f1xx\include\stm32f103xb.h
+	"core_cm3.h"
+	"system_stm32f1xx.h"
+	<stdint.h>
+
+1603892661 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\cmsis\include\core_cm3.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+	"mpu_armv7.h"
+
+1603892661 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\cmsis\include\cmsis_version.h
+
+1603892661 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\cmsis\include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1603892661 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\cmsis\include\cmsis_armcc.h
+
+1603892661 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\cmsis\include\cmsis_armclang.h
+	<arm_compat.h>
+
+1603892661 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\cmsis\include\cmsis_gcc.h
+
+1603892661 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\cmsis\include\cmsis_iccarm.h
+	"iccarm_builtin.h"
+	<intrinsics.h>
+
+1603892661 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\cmsis\include\mpu_armv7.h
+
+1603892672 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\cmsis\device\st\stm32f1xx\include\system_stm32f1xx.h
+
+1603892672 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\inc\legacy\stm32_hal_legacy.h
+
+1603892673 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_rcc_ex.h
+	"stm32f1xx_hal_def.h"
+
+1603892673 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_gpio.h
+	"stm32f1xx_hal_def.h"
+	"stm32f1xx_hal_gpio_ex.h"
+
+1603892673 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_gpio_ex.h
+	"stm32f1xx_hal_def.h"
+
+1603892673 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_exti.h
+	"stm32f1xx_hal_def.h"
+
+1603892673 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_dma.h
+	"stm32f1xx_hal_def.h"
+	"stm32f1xx_hal_dma_ex.h"
+
+1603892673 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_dma_ex.h
+	"stm32f1xx_hal_def.h"
+
+1603892673 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_cortex.h
+	"stm32f1xx_hal_def.h"
+
+1603892673 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_flash.h
+	"stm32f1xx_hal_def.h"
+	"stm32f1xx_hal_flash_ex.h"
+
+1603892673 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_flash_ex.h
+	"stm32f1xx_hal_def.h"
+
+1603892673 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_pwr.h
+	"stm32f1xx_hal_def.h"
+
+1603892673 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_tim.h
+	"stm32f1xx_hal_def.h"
+	"stm32f1xx_hal_tim_ex.h"
+
+1603892673 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_tim_ex.h
+	"stm32f1xx_hal_def.h"
+
+1603892673 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_pcd.h
+	"stm32f1xx_ll_usb.h"
+	"stm32f1xx_hal_pcd_ex.h"
+
+1603892673 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_ll_usb.h
+	"stm32f1xx_hal_def.h"
+
+1603892673 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_pcd_ex.h
+	"stm32f1xx_hal_def.h"
+
+1603892673 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_cortex.c
+	"stm32f1xx_hal.h"
+
+1603892673 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_dma.c
+	"stm32f1xx_hal.h"
+
+1603892673 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_exti.c
+	"stm32f1xx_hal.h"
+
+1603892673 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_flash.c
+	"stm32f1xx_hal.h"
+
+1603892673 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_flash_ex.c
+	"stm32f1xx_hal.h"
+
+1603892673 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_gpio.c
+	"stm32f1xx_hal.h"
+
+1603892673 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_gpio_ex.c
+	"stm32f1xx_hal.h"
+
+1603892673 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_pcd.c
+	"stm32f1xx_hal.h"
+
+1603892673 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_pcd_ex.c
+	"stm32f1xx_hal.h"
+
+1603892673 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_pwr.c
+	"stm32f1xx_hal.h"
+
+1603892673 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_rcc.c
+	"stm32f1xx_hal.h"
+
+1603892673 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_rcc_ex.c
+	"stm32f1xx_hal.h"
+
+1603892673 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_tim.c
+	"stm32f1xx_hal.h"
+
+1603892673 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_tim_ex.c
+	"stm32f1xx_hal.h"
+
+1603892673 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\drivers\stm32f1xx_hal_driver\src\stm32f1xx_ll_usb.c
+	"stm32f1xx_hal.h"
+
+1603892663 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\middlewares\st\stm32_usb_device_library\class\hid\src\usbd_hid.c
+	"usbd_hid.h"
+	"usbd_ctlreq.h"
+
+1603892663 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\middlewares\st\stm32_usb_device_library\class\hid\inc\usbd_hid.h
+	"usbd_ioreq.h"
+
+1603892663 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\middlewares\st\stm32_usb_device_library\core\inc\usbd_ioreq.h
+	"usbd_def.h"
+	"usbd_core.h"
+
+1603892663 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\middlewares\st\stm32_usb_device_library\core\inc\usbd_def.h
+	"usbd_conf.h"
+
+1615207661 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\inc\usbd_conf.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+	"stm32f1xx.h"
+	"stm32f1xx_hal.h"
+
+1615207663 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\inc\main.h
+	"stm32f1xx_hal.h"
+	"ps2_protocol.h"
+
+1614591351 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\ps2\inc\ps2_protocol.h
+
+1603892663 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\middlewares\st\stm32_usb_device_library\core\inc\usbd_core.h
+	"usbd_conf.h"
+	"usbd_def.h"
+	"usbd_ioreq.h"
+	"usbd_ctlreq.h"
+
+1603892663 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\middlewares\st\stm32_usb_device_library\core\inc\usbd_ctlreq.h
+	"usbd_def.h"
+
+1603892663 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\middlewares\st\stm32_usb_device_library\core\src\usbd_core.c
+	"usbd_core.h"
+
+1603892663 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\middlewares\st\stm32_usb_device_library\core\src\usbd_ctlreq.c
+	"usbd_ctlreq.h"
+	"usbd_ioreq.h"
+
+1603892663 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\middlewares\st\stm32_usb_device_library\core\src\usbd_ioreq.c
+	"usbd_ioreq.h"
+
+1614606239 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\ps2\src\ps2_protocol.c
+	"main.h"
+
+1613998972 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\src\stm32f1xx_hal_msp.c
+	"main.h"
+
+1613998972 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\src\stm32f1xx_it.c
+	"main.h"
+	"stm32f1xx_it.h"
+
+1613998972 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\inc\stm32f1xx_it.h
+
+1613900130 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\src\syscalls.c
+	<sys/stat.h>
+	<stdlib.h>
+	<errno.h>
+	<stdio.h>
+	<signal.h>
+	<time.h>
+	<sys/time.h>
+	<sys/times.h>
+
+1613900130 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\src\sysmem.c
+	<errno.h>
+	<stdint.h>
+
+1603892672 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\src\system_stm32f1xx.c
+	"stm32f1xx.h"
+
+1614527850 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\src\usb_device.c
+	"usb_device.h"
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_hid.h"
+
+1614435501 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\inc\usb_device.h
+	"stm32f1xx.h"
+	"stm32f1xx_hal.h"
+	"usbd_def.h"
+
+1613998971 k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\inc\usbd_desc.h
+	"usbd_def.h"
+
+1614419855 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\src\usbd_conf.c
+	"stm32f1xx.h"
+	"stm32f1xx_hal.h"
+	"usbd_def.h"
+	"usbd_core.h"
+	"usbd_hid.h"
+
+1613998972 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\src\usbd_desc.c
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_conf.h"
+
+1603892672 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\startup\startup_stm32f103c8tx.s
+
+1614591148 source:k:\projets\stm32\stmicroelectronics\stm103_ps2_to_usb\src\main.c
+	"main.h"
+	"usb_device.h"
+	"usbd_hid.h"
+
