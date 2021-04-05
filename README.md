@@ -11,7 +11,7 @@
 - Automatic recognition of the type of the PS/2 device : you can connect any keyboard or mouse on each of the PS/2 connector of the board
 - No specific driver required on host computer
 - Hardware and Firmware source code provided
-- 2 leds per port for PS/2 device type identification and traffic information
+- 2 LEDs per port for PS/2 device type identification and traffic information
 
 
 Directories:
